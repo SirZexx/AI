@@ -1,0 +1,1 @@
+#infection detection of any type of would by scanning its image, so we can suggest if the patient is needed to visit the doctor or not
